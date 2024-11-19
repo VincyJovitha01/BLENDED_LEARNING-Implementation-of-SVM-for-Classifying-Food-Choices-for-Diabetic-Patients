@@ -1,5 +1,5 @@
 # Ex:07 Implementation of Support Vector Machine for Classifying Food Choices for Diabetic Patients
-## DATE:
+### DATE:
 ## AIM:
 To implement a Support Vector Machine (SVM) model to classify food items and optimize hyperparameters for better accuracy.
 
